@@ -1,0 +1,14 @@
+state={
+	id=8
+	name="STATE_8"
+	provinces={
+		13091 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = GER
+		add_core_of = GER
+	}
+	buildings_max_level_factor=1.000
+}

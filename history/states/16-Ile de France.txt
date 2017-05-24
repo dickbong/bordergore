@@ -1,0 +1,14 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		7869 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = ETH
+		add_core_of = ETH
+	}
+	buildings_max_level_factor=1.000
+}

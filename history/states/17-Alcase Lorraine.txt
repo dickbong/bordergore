@@ -1,0 +1,14 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		7891 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = BUL
+		add_core_of = GER
+	}
+	buildings_max_level_factor=1.000
+}

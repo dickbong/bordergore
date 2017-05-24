@@ -1,0 +1,14 @@
+state={
+	id=10
+	name="STATE_10"
+	provinces={
+		13203 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = USA
+		add_core_of = USA
+	}
+	buildings_max_level_factor=1.000
+}
