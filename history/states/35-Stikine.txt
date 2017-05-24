@@ -1,0 +1,14 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		1872 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+	}
+	buildings_max_level_factor=1.000
+}

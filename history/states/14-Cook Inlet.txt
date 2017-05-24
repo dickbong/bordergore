@@ -1,0 +1,14 @@
+state={
+	id=14
+	name="STATE_14"
+	provinces={
+		10679 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = FRA
+		add_core_of = FRA
+	}
+	buildings_max_level_factor=1.000
+}

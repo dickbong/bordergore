@@ -1,0 +1,14 @@
+state={
+	id=30
+	name="STATE_30"
+	provinces={
+		12231 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = TIB
+		add_core_of = TIB
+	}
+	buildings_max_level_factor=1.000
+}

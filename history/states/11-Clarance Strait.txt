@@ -1,0 +1,14 @@
+state={
+	id=11
+	name="STATE_11"
+	provinces={
+		13202 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = BHU
+		add_core_of = BHU
+	}
+	buildings_max_level_factor=1.000
+}
