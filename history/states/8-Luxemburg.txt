@@ -7,8 +7,8 @@ state={
 	manpower = 69
 	state_category = pastoral
 	history={
-		owner = GER
-		add_core_of = GER
+		owner = USA
+		add_core_of = USA
 	}
 	buildings_max_level_factor=1.000
 }

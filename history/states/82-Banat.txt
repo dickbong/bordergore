@@ -1,0 +1,14 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		4753 
+	}
+	manpower = 69
+	state_category = pastoral
+	history={
+		owner = CAN
+		add_core_of = CAN
+	}
+	buildings_max_level_factor=1.000
+}
